@@ -7,6 +7,6 @@ execute:
     make run
 
 STEPS:
+
     1. Reset MEMORY_SIZE and DATA_PATH in Makefile
-    
     2. compile and execute
