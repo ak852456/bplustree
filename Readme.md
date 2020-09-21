@@ -1,9 +1,10 @@
 It is a simulation for testing the performance of a bplustree on PCM(Phase-change memory).
+NDK_0.txt is a benchmark.
 
-compile:
+Compile:
     make
 
-execute:
+Execute:
     make run
 
 STEPS:
